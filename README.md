@@ -14,18 +14,14 @@ O projeto funciona nativamente como um **Digital Garden** construído com **[Qua
 
 ```text
 .
-├── content/                                       # Fonte de verdade de todas as notas (.md)
+├── content/                                       # Fonte de verdade das notas públicas (.md)
 │   ├── index.md                                   # Página inicial do Digital Garden
-│   ├── PLANO_DE_ESTUDOS.md                        # Cronograma de 36 semanas (6 fases)
-│   ├── CONTEXTO.md                                # Diretrizes permanentes para IAs e orientadores
 │   ├── 00_nivelamento_pre_calculo/                # Fase 0: Lógica formal, técnicas de prova e funções
 │   ├── 01_calculo_univariavel/                    # Fase 1: Limites, derivadas, integrais e Taylor
 │   ├── 02_algebra_linear/                         # Fase 2: Subespaços, projeções, espectral e SVD
 │   ├── 03_calculo_multivariavel_otimizacao/        # Fase 3: Gradientes, Hessianas, convexidade e KKT
 │   ├── 04_probabilidade_estatistica/              # Fase 4: Gaussianas multivariadas, MLE, MAP e Markov
-│   ├── 05_otimizacao_combinatoria_pesquisa_operacional/ # Fase 5: Grafos, Simplex, MIP, VRP e meta-heurísticas
-│   ├── artigos_e_propostas/                       # Leituras de papers e propostas de pesquisa
-│   └── anotacoes_gerais/                          # Reuniões com orientadores e reflexões
+│   └── 05_otimizacao_combinatoria_pesquisa_operacional/ # Fase 5: Grafos, Simplex, MIP, VRP e meta-heurísticas
 ├── quartz/                                        # Componentes e motor do Quartz
 ├── quartz.config.ts                               # Configuração de temas, KaTeX e metadados
 ├── quartz.layout.ts                               # Layout das páginas (Explorer, Graph, TOC)

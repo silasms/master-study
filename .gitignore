@@ -17,3 +17,7 @@ npm-debug.log*
 .obsidian/
 .idea/
 .vscode/
+
+# Private planning & context
+privado/
+

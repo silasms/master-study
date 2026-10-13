@@ -22,13 +22,6 @@ O projeto une duas frentes complementares:
 
 ---
 
-## 🧭 Documentos Centrais
-
-* 📖 **[[PLANO_DE_ESTUDOS|Plano de Estudos Detalhado (36 Semanas)]]:** Cronograma completo com as 6 fases de formação matemática e computacional.
-* 🧠 **[[CONTEXTO|Memória de Contexto e Diretrizes]]:** Registro do perfil, histórico de orientações e regras de progressão dos estudos.
-
----
-
 ## 🗺️ As 6 Fases da Trilha de Estudos
 
 ```
