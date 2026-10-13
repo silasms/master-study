@@ -1,0 +1,19 @@
+# Quartz build output & cache
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+prof/
+
+# Dependencies
+node_modules/
+
+# Environment and logs
+.env
+*.log
+npm-debug.log*
+
+# Editor & OS files
+.DS_Store
+.obsidian/
+.idea/
+.vscode/

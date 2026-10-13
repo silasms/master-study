@@ -1,0 +1,11 @@
+services:
+  quartz:
+    build: .
+    container_name: mestrado-digital-garden
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./content:/usr/src/app/content
+    environment:
+      - NODE_ENV=production
